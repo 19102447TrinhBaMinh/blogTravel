@@ -1,9 +1,2 @@
-# Spring Boot Blog Demo
-
-## About
-
-This is a demo project for practicing **Spring Boot + Thymeleaf**. 
-The idea was to build some basic blogging platform.
-
-It was made using **Spring Boot**, **Spring Security**, **Thymeleaf**, **Spring Data JPA**, **Spring Data REST** 
-Database is in memory **H2**.
+Travel Blog Application using Spring Boot
+Web Application developed using Java Spring framework, Hibernate, MYSQL, Thymeleaf and HTML . The Application design pattern follows MVC (Model-View-Controller) architecture
